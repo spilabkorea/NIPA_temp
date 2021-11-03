@@ -1,8 +1,10 @@
 node_modules
 .env
 
-data\comp\*.csv
-
+data\comp\comp_364_20211007_134000.csv
+data\comp\compressor_364_20100601_214000.csv
+data\comp\compressor_364_20211020_165000.csv
+data\comp\test_result.csv
 
 study_js
 RESTAPISPILab_final.ipynb
