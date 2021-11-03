@@ -1,0 +1,16 @@
+node_modules
+.env
+
+data\comp\*.csv
+
+
+study_js
+RESTAPISPILab_final.ipynb
+real_time_collect_input_mongodb.ipynb
+test.py
+routes\test.js
+
+
+mongodbtest.ipynb
+get_data_v1.py
+upload_mongodb.py
